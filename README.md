@@ -45,4 +45,4 @@ This project analyzes single-cell RNA sequencing (scRNA-seq) data from breast ca
 1. Download GSE180286 and extract into your working folder  
 2. Open R and run the provided script:  
    ```r
-   source("scripts/analysis.R")
+   source("project.R")
